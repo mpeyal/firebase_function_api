@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "iot-pisciculture-monitoring",
+    "fisheries": "iot-pisciculture-monitoring"
+  },
+  "targets": {},
+  "etags": {}
+}
